@@ -30,6 +30,7 @@ Greetings, I'm Muhammad Danish Bin Tazurin, a motivated individual deeply intere
 * 🎖1st place in the district level Nasyid Competition (2014,2015 and 2017)
 * 🎖One of the coach for Laravel Coaching Session at Kedah (2023)
 * 🎖One of the trainer for Laravel Training Session at Perak (2024)
+* 🎖Muet Band 4
 
 
 ### Socials
