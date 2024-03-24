@@ -44,5 +44,5 @@ Greetings, I'm Muhammad Danish Bin Tazurin, a motivated individual deeply intere
 <b>Top Repositories</b>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=It's+not+about+the+strength;+it's+all+about+the%C2%A0strategy." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hati-hati+dengan+Hati" alt="Typing SVG" /></a>
 
